@@ -23,6 +23,6 @@ ComsCart is a Flutter E-commerce application that allows users to browse, shop, 
 
 ## Contact 📧
 
-Have questions or suggestions? Feel free to contact us at [Info.mhdshamil@gmail.com].
+Have questions or suggestions? Feel free to contact me through [mail][Info.mhdshamil@gmail.com].
 
 Happy Shopping! 🛍️
