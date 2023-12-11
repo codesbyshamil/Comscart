@@ -4,12 +4,12 @@ ComsCart is a Flutter E-commerce application that allows users to browse, shop, 
 
 ## Features 🌟
 
-✨ User Authentication: Utilizes Firebase Authentication for secure user login and registration.
-✨ Browse Categories: Explore and purchase products from a wide range of categories.
-✨ Shopping Cart: Add, edit, and remove items from the cart for easy checkout.
-✨ Wishlist: Save favorite items to the wishlist for future consideration.
-✨ Order History: View and track previously placed orders.
-✨ API Integration: Communicates with an API to fetch and display product information.
+- User Authentication: Utilizes Firebase Authentication for secure user login and registration.
+- Browse Categories: Explore and purchase products from a wide range of categories.
+- Shopping Cart: Add, edit, and remove items from the cart for easy checkout.
+- Wishlist: Save favorite items to the wishlist for future consideration.
+- Order History: View and track previously placed orders.
+- API Integration: Communicates with an API to fetch and display product information.
 
 ## Technologies Used 🚀
 
