@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "614383783798",
+    "project_id": "comscart",
+    "storage_bucket": "comscart.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614383783798:android:2b0e8b0c38c68f4c107457",
+        "android_client_info": {
+          "package_name": "com.example.comsmart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "614383783798-po4ogkpv242nr055sn7vnh402b7827l2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.comsmart",
+            "certificate_hash": "20b3eb36fc756056c11cd6189680278bd5468494"
+          }
+        },
+        {
+          "client_id": "614383783798-i63m5a28gjlq92genga363d4l10fjpup.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-P-9QyaJa__Fw4nZt3QXyCvEhb8yJ_Z8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "614383783798-i63m5a28gjlq92genga363d4l10fjpup.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
