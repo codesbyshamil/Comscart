@@ -1,4 +1,4 @@
-# ComsCart 🛒
+# Comscart 🛒
 
 ComsCart is a Flutter E-commerce application that allows users to browse, shop, and manage their purchases conveniently. The app provides a seamless shopping experience with a variety of features and functionalities.
 
