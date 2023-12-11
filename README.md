@@ -24,5 +24,3 @@ Uploading soon...
 ## Contact 📧
 
 Have questions or suggestions? Feel free to contact me through [mail](Info.mhdshamil@gmail.com).
-
-Happy Shopping! 🛍️
