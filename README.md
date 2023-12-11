@@ -19,7 +19,7 @@ Comscart is a Flutter E-commerce application that allows users to browse, shop, 
 
 ## Screenshots 📱
 
-[Include screenshots of your app here to showcase its interface]
+Uploading soon...
 
 ## Contact 📧
 
